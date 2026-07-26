@@ -27,7 +27,7 @@ Company ABC receives all customer communication — billing complaints, product 
 
 This project replaces that manual pipeline with an automated agent built in Make.com. It uses Google Gemini for intent understanding and Google Sheets as a lightweight customer and ticket database, producing a system that classifies, logs, tickets, and responds to emails in real time — with no human intervention required for the standard case.
 
-Full background is in [`docs/Problem-Statement.md`](docs/Problem-Statement.md).
+Full background is in [`docs/Problem-Statement.md`](docs/Problem Statement.md).
 
 ## Problem Statement
 
