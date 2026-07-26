@@ -107,12 +107,6 @@ Sample input/output pairs live in [`examples/`](examples/) — a raw customer em
 - Multi-language email support
 - Slack/Teams alerts for high-priority billing issues
 
-See [`docs/CHANGELOG.md`](docs/CHANGELOG.md) for version history.
-
-## Contributing
-
-Contributions are welcome. See [`docs/CONTRIBUTING.md`](docs/CONTRIBUTING.md) for guidelines.
-
 ## License
 
 This project is licensed under the MIT License — see [`LICENSE`](LICENSE) for details.
